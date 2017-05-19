@@ -24,4 +24,4 @@ vignettes/*.pdf
 *.knit.md
 .Rproj.user
 # Excel Raw files
-xlsx/*.xlsx
+#xlsx/*.xlsx
