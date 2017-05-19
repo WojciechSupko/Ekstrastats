@@ -1,0 +1,17 @@
+Lp	Team	TotalPoints
+1	Jagiellonia	56
+2	Legia	55
+3	Lechia	53
+4	Lech	52
+5	Wisła K	44
+6	Pogoń	39
+7	Bruk-Bet	39
+8	Korona	39
+9	Wisła P	38
+10	Zagłębie	38
+11	Śląsk	33
+12	Cracovia	31
+13	Piast	30
+14	Arka	30
+15	Ruch	30
+16	Górnik	27
