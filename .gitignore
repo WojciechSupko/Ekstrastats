@@ -23,4 +23,5 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 .Rproj.user
+# Excel Raw files
 xlsx/*.xlsx
